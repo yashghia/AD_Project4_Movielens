@@ -2,9 +2,3 @@
 <Context antiJARLocking="true" path="/Harsh_Assignment4">
   <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/nbad4" password="sesame" removeAbandoned="true" removeAbandonedTimeout="60" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/nbad4" username="root"/>
 </Context>
-
-openshift:
-
-<Context antiJARLocking="true" path="/Harsh_Assignment4">
-  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/nbad4" password="761fzGZKRkwF" removeAbandoned="true" removeAbandonedTimeout="60" type="javax.sql.DataSource" url="jdbc:mysql://127.6.152.2:3306/nbad4" username="adminVUnLfKX"/>
-</Context>

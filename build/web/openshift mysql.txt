@@ -1,5 +1,0 @@
-server & port: 127.6.152.2:3306
-
-Root User: adminVUnLfKX
-  Root Password: 761fzGZKRkwF
-
